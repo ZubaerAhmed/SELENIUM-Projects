@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="28478" started-at="2019-03-20T21:11:51Z" finished-at="2019-03-20T21:12:20Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="28478" started-at="2019-03-20T21:11:51Z" finished-at="2019-03-20T21:12:20Z">
+      <class name="patientModuleTest.MainPageTest">
+        <test-method status="PASS" signature="initBrowser()[pri:0, instance:patientModuleTest.MainPageTest@57baeedf]" name="initBrowser" is-config="true" duration-ms="5086" started-at="2019-03-20T17:11:51Z" finished-at="2019-03-20T17:11:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method status="PASS" signature="report()[pri:0, instance:patientModuleTest.MainPageTest@57baeedf]" name="report" is-config="true" duration-ms="4812" started-at="2019-03-20T17:11:56Z" finished-at="2019-03-20T17:12:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+        <test-method status="PASS" signature="validatePatientLogin()[pri:0, instance:patientModuleTest.MainPageTest@57baeedf]" name="validatePatientLogin" duration-ms="242" started-at="2019-03-20T17:12:01Z" description="TC_001" finished-at="2019-03-20T17:12:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePatientLogin -->
+        <test-method status="PASS" signature="reportClose()[pri:0, instance:patientModuleTest.MainPageTest@57baeedf]" name="reportClose" is-config="true" duration-ms="507" started-at="2019-03-20T17:12:01Z" finished-at="2019-03-20T17:12:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportClose -->
+        <test-method status="PASS" signature="clickPatientLogin()[pri:0, instance:patientModuleTest.MainPageTest@57baeedf]" name="clickPatientLogin" duration-ms="2315" started-at="2019-03-20T17:12:02Z" description="TC_002,click patient-login" finished-at="2019-03-20T17:12:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickPatientLogin -->
+        <test-method status="PASS" signature="reportClose()[pri:0, instance:patientModuleTest.MainPageTest@57baeedf]" name="reportClose" is-config="true" duration-ms="72" started-at="2019-03-20T17:12:04Z" finished-at="2019-03-20T17:12:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportClose -->
+        <test-method status="PASS" signature="validatelogin()[pri:0, instance:patientModuleTest.MainPageTest@57baeedf]" name="validatelogin" duration-ms="42" started-at="2019-03-20T17:12:04Z" description="TC_003, validate LOGIN button" finished-at="2019-03-20T17:12:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatelogin -->
+        <test-method status="PASS" signature="reportClose()[pri:0, instance:patientModuleTest.MainPageTest@57baeedf]" name="reportClose" is-config="true" duration-ms="53" started-at="2019-03-20T17:12:04Z" finished-at="2019-03-20T17:12:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportClose -->
+        <test-method status="PASS" signature="clickLoginAndEnterData()[pri:0, instance:patientModuleTest.MainPageTest@57baeedf]" name="clickLoginAndEnterData" duration-ms="15128" started-at="2019-03-20T17:12:04Z" description="004, click login and enter credintial" finished-at="2019-03-20T17:12:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickLoginAndEnterData -->
+        <test-method status="PASS" signature="reportClose()[pri:0, instance:patientModuleTest.MainPageTest@57baeedf]" name="reportClose" is-config="true" duration-ms="72" started-at="2019-03-20T17:12:19Z" finished-at="2019-03-20T17:12:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportClose -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:patientModuleTest.MainPageTest@57baeedf]" name="closeBrowser" is-config="true" duration-ms="123" started-at="2019-03-20T17:12:19Z" finished-at="2019-03-20T17:12:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- patientModuleTest.MainPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

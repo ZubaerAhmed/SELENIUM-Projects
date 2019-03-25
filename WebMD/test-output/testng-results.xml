@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29282" started-at="2019-03-23T11:42:18Z" finished-at="2019-03-23T11:42:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29282" started-at="2019-03-23T11:42:18Z" finished-at="2019-03-23T11:42:47Z">
+      <class name="sprint_001.nav_Droplist_Test">
+        <test-method status="PASS" signature="driver()[pri:0, instance:sprint_001.nav_Droplist_Test@6e1567f1]" name="driver" is-config="true" duration-ms="6365" started-at="2019-03-23T07:42:18Z" finished-at="2019-03-23T07:42:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driver -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:sprint_001.nav_Droplist_Test@6e1567f1]" name="openBrowser" is-config="true" duration-ms="16116" started-at="2019-03-23T07:42:24Z" finished-at="2019-03-23T07:42:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="validate_navbar_home()[pri:0, instance:sprint_001.nav_Droplist_Test@6e1567f1]" name="validate_navbar_home" duration-ms="273" started-at="2019-03-23T07:42:40Z" finished-at="2019-03-23T07:42:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_navbar_home -->
+        <test-method status="PASS" signature="listOfNav_webMD()[pri:0, instance:sprint_001.nav_Droplist_Test@6e1567f1]" name="listOfNav_webMD" duration-ms="4363" started-at="2019-03-23T07:42:40Z" finished-at="2019-03-23T07:42:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- listOfNav_webMD -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:sprint_001.nav_Droplist_Test@6e1567f1]" name="closeBrowser" is-config="true" duration-ms="2144" started-at="2019-03-23T07:42:45Z" finished-at="2019-03-23T07:42:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- sprint_001.nav_Droplist_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
